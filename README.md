@@ -6,4 +6,4 @@ Our channel: [@MUDUTU](https://t.me/MUDUTU)
 Our bot: [@MudutuBot](https://t.me/MudutuBot)
 
 Demo:
-![](https://github.com/IAsteRoiDI/MudutuBot/DemoMUDUTU.gif)
+![](https://github.com/IAsteRoiDI/MudutuBot/blob/master/DemoMUDUTU.gif)
